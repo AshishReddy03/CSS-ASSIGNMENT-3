@@ -1,0 +1,390 @@
+.navi {
+    height: 100px;
+    display: flex;
+    gap: 230px;
+    margin-top: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.line3 {
+    border-bottom: 1px solid lightgray;
+    position: relative;
+    bottom: 50px;
+}
+
+
+.logo {
+    position: relative;
+    top: 10px;
+    left: 30px;
+    color: red;
+}
+
+.links {
+    width: 300px;
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 12px 20px;
+    border-radius: 30px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.line1 {
+    border-left: 1px solid lightgray;
+    height: 25px;
+    position: relative;
+    bottom: 0px;
+}
+
+.line2 {
+    border-left: 1px solid lightgray;
+    height: 25px;
+    position: relative;
+    bottom: 0px;
+
+}
+
+.link {
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.add {
+    font-size: 14px;
+    text-decoration: none;
+    color: gray;
+    font-weight: 100;
+}
+
+.search-img {
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 50%;
+
+}
+
+.about {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    position: relative;
+    bottom: 30px;
+}
+
+.about a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.abt-img {
+    width: 70px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 30px;
+    border: 1px solid lightgray;
+}
+
+.globe {
+    width: 20px;
+    height: 20px;
+}
+
+.menu {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    bottom: 7px;
+}
+
+.user {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: 10px;
+}
+
+.loc {
+    width: 25px;
+    height: 25px;
+}
+
+.location {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 0 30px;
+    position: relative;
+    bottom: 50px;
+    background-color: white;
+}
+
+.arrow1 {
+    border: 1px solid lightgray;
+    border-radius: 50%;
+    height: 13px;
+    padding: 7px;
+}
+
+.filter {
+    width: 60px;
+    border: 1px solid lightgray;
+    height: 20px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    position: relative;
+    bottom: 8px;
+
+}
+
+.filter1 {
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+    font-size: 15px;
+}
+
+.caption {
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    right: 5px;
+}
+
+.caption1 {
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    right: 13px;
+
+}
+
+.caption2 {
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    right: 12px;
+
+}
+
+.caption3 {
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    right: 25px;
+
+}
+
+.caption4 {
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    right: 25px;
+
+}
+
+.caption5 {
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    right: 15px;
+
+}
+
+.caption6 {
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    right: 10px;
+
+}
+
+.caption7 {
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    right: 35px;
+
+}
+
+#rooms {
+    position: relative;
+    right: 30px;
+}
+
+#country {
+    position: relative;
+    right: 20px;
+
+}
+
+#hotel1 {
+    position: relative;
+    right: 40px;
+
+}
+
+#forest {
+    position: relative;
+    right: 30px;
+}
+
+#pools {
+    position: relative;
+    left: 13px;
+}
+
+.price {
+    display: flex;
+    width: 600px;
+    padding: 15px;
+    border: 1px solid lightgray;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    height: 40px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 20px;
+}
+
+.line4 {
+    border-left: 1px solid lightgray;
+    height: 20px;
+    position: relative;
+    right: 70px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.fee {
+    font-size: 16px;
+    position: relative;
+    color: gray;
+    position: relative;
+    right: 130px;
+}
+
+.price img {
+    width: 50px;
+    height: 50px;
+}
+
+.place1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 300px;
+    margin: 20px 20px;
+}
+
+.place1-img {
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+
+}
+
+.heart {
+    position: relative;
+    bottom: 250px;
+    left: 270px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.lonavala {
+    position: relative;
+    bottom: 30px;
+    font-weight: 500;
+    color: black;
+}
+
+.kilo {
+    position: relative;
+    bottom: 75px;
+    color: gray;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.date {
+    position: relative;
+    bottom: 25px;
+    color: gray;
+    font-weight: 200;
+    font-size: 15px;
+
+}
+
+.cost {
+    position: relative;
+    bottom: 60px;
+    color: black;
+    font-size: 15px;
+}
+
+.places {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.c {
+    width: 12px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid lightgray;
+    height: 30px;
+    padding: 10px 0;
+}
+
+.sec1 {
+    margin-left: 20px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 100;
+    color: black;
+}
+
+.sec2 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-right: 20px;
+}
+
+.btn {
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    padding: 12px 24px;
+    border-radius: 20px;
+    margin-left: 650px;
+    margin-bottom: 100px;
+    position: fixed;
+    top: 700px;
+}
+
+.btn-img {
+    position: relative;
+    top: 3px;
+    left: 3px;
+}
+
+.places1 {
+    display: flex;
+}
+
+.place1:hover {
+    transform: scale(1.2);
+}
